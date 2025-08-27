@@ -10,6 +10,7 @@ Hello, I'm Tarang. A curiosity in learning leveraging and emerging modern techno
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="jav" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="py" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
