@@ -17,7 +17,7 @@ Hello, I'm Tarang. A curiosity in learning leveraging and emerging modern techno
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="matplotlib" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
+## GitHub Stats 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarangcodes&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
