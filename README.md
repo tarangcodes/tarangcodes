@@ -13,6 +13,8 @@ Hello, I'm Tarang. A curiosity in learning leveraging and emerging modern techno
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/pandas/pandas-original.svg" alt="pandas" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" alt="matplotlib" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="matplotlib" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
