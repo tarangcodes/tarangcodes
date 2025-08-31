@@ -1,4 +1,4 @@
-# Hello 👋, I'm Tarang Suryawanshi
+# Hello 👋, I'm Tarang
 ### Data Analysis
 
 Hello, I'm Tarang. A curiosity in learning leveraging and emerging modern technologies, I have experience in building real world projects in the field of Data Science and Machine Learning. I'm currently trying to learn some more stuffs like IoT, improving my understanding ability in scikit-learning.
