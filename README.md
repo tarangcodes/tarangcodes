@@ -17,6 +17,13 @@ Hello, I'm Tarang. A curiosity in learning leveraging and emerging modern techno
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="matplotlib" height="40"/>&nbsp;
 </p>
 
+## Connect with me on 🔗:
+<a href="https://discordapp.com/users/dottiedonuts" target="_blank">
+  <img src="https://i.imgur.com/7t4F9Q1.png" alt="Discord" width="24" height="24">
+  <span>Connect on Discord</span>
+</a>
+
+
 ## GitHub Stats 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarangcodes&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
